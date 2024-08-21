@@ -1,0 +1,28 @@
+body {
+    color:rgb(255, 255, 255);
+    background: rgb(165, 144, 221);
+    margin: 0px;
+    font-family: "Comic Neue", sans-serif;
+}
+header {
+    border-bottom: solid 2px rgb(70, 69, 61);
+    padding: 20px;
+    font-size: 32px;
+    color:black
+}
+section {
+    background: rgb(219, 86, 190);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: right
+}
+.chepnuts {
+    margin-right: 5%;
+}
+H1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
+}
